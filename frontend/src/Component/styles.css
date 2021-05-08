@@ -1,0 +1,63 @@
+.container1{
+    background-color:lightgrey;
+    width:500px;
+    height:350px;
+    color:black;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+.container2{
+    background-color:lightgrey;
+    width:500px;
+    height:300px;
+    color:black;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+.heading{
+    text-align:center;
+    color:black;
+}
+.btn{
+    background-color:lightgreen;
+    color:white;
+}
+.lbl{
+    margin-left:10px;
+}
+.username{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+.pass{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+.email{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.auth {
+    margin-left: auto;
+    margin-right: 75px;
+}
+
+
+.brand {
+    margin-right: auto;
+    margin-left: 75px;
+}
+
+.btn1{
+    background-color:lightgreen;
+    color:white;
+    margin-left: 200px;
+}
